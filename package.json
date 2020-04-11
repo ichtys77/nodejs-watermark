@@ -6,6 +6,7 @@
   "author": "Łukasz Mazurkiewicz <mazurkiewicz_l@outlook.com>",
   "license": "MIT",
   "dependencies": {
-    "jimp": "0.6.4"
+    "jimp": "0.6.4",
+    "minimist": "^1.2.5"
   }
 }
